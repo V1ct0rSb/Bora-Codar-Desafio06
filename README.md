@@ -11,7 +11,6 @@
 <h3>Front-End</h3>
 
 <li>Reactjs</li>
-<li>JavaScript</li>
 <li>HTML</li>
 <li>CSS</li>
 
